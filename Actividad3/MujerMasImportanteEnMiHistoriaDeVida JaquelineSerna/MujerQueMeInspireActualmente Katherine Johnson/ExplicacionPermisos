@@ -1,0 +1,19 @@
+Existen 3 tipos de permisos:
+	Lectura: permite a un cierto usuario ver el contenido de un archivo. Si es un directorio, el contenido del mismo.
+	Escritura: permite modificar un archivo. Si es un directorio, el contenido del mismo.
+	Ejecución: si existe algo que ejecutar, se podrá hacer con este permiso.
+En carpetas es exactamente lo mismo:
+	Lectura: permite a un cierto usuario ver el contenido de un archivo. Si es un directorio, el contenido del mismo.
+	Escritura: permite modificar un archivo. Si es un directorio, el contenido del mismo.
+	Ejecución: si existe algo que ejecutar, se podrá hacer con este permiso.
+
+Cabe recalcar que tambien se puede poner por numeros que sería de la siguiente manera:
+	r = 4
+	w = 2
+	x = 1
+Donde R seria Lectura, W sería Escritura y X sería Ejecución.
+
+Expresandose en numeros se divide por:
+	Primer número: Propietario
+	Segundo número: Grupo
+	Tercer número: Resto

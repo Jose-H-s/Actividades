@@ -1,0 +1,4 @@
+Existen 3 tipos de permisos:
+	Lectura: permite a un cierto usuario ver el contenido de un archivo. Si es un directorio, el contenido del mismo.
+	Escritura: permite modificar un archivo. Si es un directorio, el contenido del mismo.
+	Ejecución: si existe algo que ejecutar, se podrá hacer con este permiso.
